@@ -7,4 +7,4 @@ gggggggggggggggg
 
 Creating a new branch is quick 
 
-Creatng a new branch is quick & simple 
+Creatng a new branch is quick and simple
